@@ -1,0 +1,51 @@
+body{
+    background: #BCCCDC;
+    margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+body .container form {
+    background: #D9EAFD; /* Fondo del formulario */
+    padding: 20px; /* Espaciado interno del formulario */
+    border-radius: 10px; /* Bordes redondeados */
+  }
+  
+
+  /* Cambiar el fondo del título */
+  body .container h1 {
+    background-color: #D9EAFD; /* Fondo para el título */
+    padding: 20px; /* Padding ajustado para evitar que quede blanco */
+    border-radius: 5px; /* Bordes redondeados para el título */
+    text-align: center; /* Centrar el texto del título */
+    margin: 0; /* Eliminar márgenes por defecto */
+  }
+  
+  /* Estilo del botón */
+  body .container form button {
+    background-color: #4CAF50; /* Fondo verde para el botón */
+    color: white; /* Color blanco para el texto del botón */
+    border: none; /* Sin borde */
+    padding: 10px 20px; /* Espaciado del botón */
+    border-radius: 5px; /* Bordes redondeados */
+  }
+  
+  h1{
+    color: #9AA6B2; 
+  }
+
+  button{
+    background: #F8FAFC;
+  }
+
+  #resultado {
+    background-color: #f0f8ff; /* Color de fondo claro */
+    color: #333; /* Color del texto */
+    font-size: 20px; /* Tamaño de la fuente */
+    padding: 10px; /* Espaciado interno */
+    margin-top: 20px; /* Separación desde los elementos anteriores */
+    border: 1px solid #ccc; /* Borde sutil */
+    border-radius: 5px; /* Bordes redondeados */
+    text-align: center; /* Centrar el texto */
+    font-weight: bold; /* Negrita para el texto */
+  }
